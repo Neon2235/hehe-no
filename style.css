@@ -1,0 +1,21 @@
+body{margin:0;}
+
+
+div.home{
+    background-color:blue;
+    background:linear-gradient(43deg,blue 0%, blueviolet  50%,indigo 100%);
+    padding: 260px;}
+
+
+
+    div.about{
+        background-color:black;
+        background:linear-gradient(43deg,black 0%, rgb(66, 57, 57) 50%, rgb(134, 35, 35) 100%);
+        padding: 260px;
+    color:darkred} 
+
+        div.catalog{
+            background-color:cyan;
+            background:linear-gradient(43deg,cyan 0%, crimson 100%);
+            padding: 260px;} 
+           
