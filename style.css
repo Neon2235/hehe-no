@@ -2,10 +2,8 @@ body{margin:0;}
 
 
 div.home{
-    background-color:blue;
-    background:linear-gradient(43deg,blue 0%, blueviolet  50%,indigo 100%);
+background-image: url('newbackground.jpg');
     padding: 260px;}
-
 
 
     div.about{
